@@ -5,7 +5,7 @@
 - 🔭 I'm currently working on MERN stack projects and exploring full-stack development.
 - 🌱 I’m learning advanced JavaScript, Node.js, and React.js.
 - 💬 Ask me about JavaScript, React, Node.js, or anything web dev!
-- 📫 How to reach me: [mailtomehulraj@gmail.com](mailto:mailtomehulraj@gmail.com)
+- 📫 How to reach me: [mehul.email@example.com](mailto:mailtomehulraj@gmail.com)
 
 ## Skills
 
@@ -13,12 +13,6 @@
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, VSCode, Postman
-
-## Stats
-
-![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehulRaj&show_icons=true&theme=radical)
-
----
 
 ### Connect with me:
 
