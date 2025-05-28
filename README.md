@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Mehul Raj
 
-<!--
-**mehulraj11/mehulraj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on MERN stack projects and exploring full-stack development.
+- 🌱 I’m learning advanced JavaScript, Node.js, and React.js.
+- 💬 Ask me about JavaScript, React, Node.js, or anything web dev!
+- 📫 How to reach me: [mailtomehulraj@gmail.com](mailto:mailtomehulraj@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, VSCode, Postman
+
+## Stats
+
+![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MehulRaj&show_icons=true&theme=radical)
+
+---
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MehulRaj-blue?logo=linkedin)](https://linkedin.com/in/mehulraj)  
+[![Twitter](https://img.shields.io/badge/Twitter-@MehulRaj-blue?logo=twitter)](https://twitter.com/MehulRaj)  
+[![GitHub](https://img.shields.io/badge/GitHub-MehulRaj-black?logo=github)](https://github.com/MehulRaj)
+
+---
+
+*Thanks for stopping by! 👋*
+
